@@ -13,4 +13,4 @@ Este repositorio contiene el desarrollo de la Evaluación 1, cuyo objetivo es re
 * **Darío Silva Pedreros** - dario.silva2301@alumnos.ubiobio.cl
 
 ## Estructura del Repositorio
-Toda la documentación técnica, el notebook ejecutable, los datasets (original y limpio) y la presentación solicitada se encuentran dentro del directorio "E1 - EDA".
+El notebook ejecutable, los datasets (original y limpio) y la presentación solicitada se encuentran dentro del directorio "E1 - EDA".
