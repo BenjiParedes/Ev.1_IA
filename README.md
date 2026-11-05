@@ -1,4 +1,4 @@
-# Inteligencia Artificial
+# Inteligencia Artificial - Equipo 13
 
 Repositorio correspondiente a las evaluaciones de la asignatura **Inteligencia Artificial (620454)**.
 
