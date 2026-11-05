@@ -1,16 +1,30 @@
-# Evaluación 1 - Calidad y Preparación de Datos
+# Inteligencia Artificial
 
-**Asignatura:** Inteligencia Artificial (620454)
+Repositorio correspondiente a las evaluaciones de la asignatura **Inteligencia Artificial (620454)**.
+
 **Semestre:** 2026-2
 
-## Descripción de la Evaluación
-Este repositorio contiene el desarrollo de la Evaluación 1, cuyo objetivo es realizar un proceso completo de diagnóstico, análisis exploratorio (EDA) y preparación de datos sobre el dataset "rendimiento_academico_evaluacion.csv". Se implementaron estrategias de limpieza, imputación y transformación de variables utilizando Pipelines y Column Transformers para obtener un dataset final tratado y apto para modelos predictivos, llamado "rendimiento_academico_limpio.csv ".
+## Descripción
 
-## Integrantes del Grupo
+Este repositorio reúne el desarrollo de las evaluaciones de la asignatura, abordando distintas etapas del análisis, procesamiento de datos y aplicación de técnicas de inteligencia artificial.
+
+Cada evaluación se encuentra organizada en su propio directorio, junto con los archivos, resultados y documentación correspondientes.
+
+## Evaluaciones
+
+| Evaluación | Contenido | Directorio |
+|---|---|---|
+| Evaluación 1 | Calidad y preparación de datos (EDA) | [E1-EDA](./E1-EDA/) |
+| Evaluación 3 | Clasificación | [E3-Clasificación](./E3-Clasificación/) |
+
+## Integrantes
+
 * **Cristóbal Soto Vidal** - cristobal.soto2301@alumnos.ubiobio.cl
 * **Martín Romero Álvarez** - martin.romero2301@alumnos.ubiobio.cl
 * **Benjamín Paredes Aguayo** - benjamin.paredes2301@alumnos.ubiobio.cl
 * **Darío Silva Pedreros** - dario.silva2301@alumnos.ubiobio.cl
 
-## Estructura del Repositorio
-El notebook ejecutable, los datasets (original y limpio) y la presentación solicitada se encuentran dentro del directorio "E1 - EDA".
+## Organización
+
+Cada directorio corresponde a una evaluación independiente. Las instrucciones específicas, dependencias y resultados se encuentran documentados dentro de sus respectivas carpetas.
+
